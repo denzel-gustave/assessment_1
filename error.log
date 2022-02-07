@@ -1,0 +1,9 @@
+[Mon Feb 07 00:00:02.788241 2022] [mpm_event:notice] [pid 522:tid 140147523370048] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon Feb 07 00:00:02.788260 2022] [core:notice] [pid 522:tid 140147523370048] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Feb 07 18:14:13.587442 2022] [core:warn] [pid 522:tid 140147523370048] AH00045: child process 7696 still did not exit, sending a SIGTERM
+[Mon Feb 07 18:14:15.589725 2022] [core:warn] [pid 522:tid 140147523370048] AH00045: child process 7696 still did not exit, sending a SIGTERM
+[Mon Feb 07 18:14:17.591936 2022] [core:warn] [pid 522:tid 140147523370048] AH00045: child process 7696 still did not exit, sending a SIGTERM
+[Mon Feb 07 18:14:19.594182 2022] [core:error] [pid 522:tid 140147523370048] AH00046: child process 7696 still did not exit, sending a SIGKILL
+[Mon Feb 07 18:14:20.595388 2022] [mpm_event:notice] [pid 522:tid 140147523370048] AH00491: caught SIGTERM, shutting down
+[Mon Feb 07 18:22:14.281358 2022] [mpm_event:notice] [pid 10433:tid 140061698739264] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Mon Feb 07 18:22:14.281443 2022] [core:notice] [pid 10433:tid 140061698739264] AH00094: Command line: '/usr/sbin/apache2'
